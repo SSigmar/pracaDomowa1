@@ -9,6 +9,9 @@ class zadanie1 {
         System.out.println("commitowania");
         System.out.println("mam");
         System.out.println("nadzieję");
+        System.out.println("na");
+        System.out.println("full");
+        System.out.println("punktów");
 
 
     }
